@@ -3,61 +3,54 @@
 </p>
 
 <p align="center">
-Computer Science Student • Freelancer Developer • UI/UX Designer
-<br>
+  <a href="https://github.com/itsharith">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=99f2c8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Freelance+Developer;UI/UX+Designer;&heart;+Hardware+Diagnostics" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
 Baghdad, Iraq
 </p>
 
 
-## About
+##  About Me
 
-I am **Harith**, a third-year Computer Science student at the **University of Technology**.
+I am **Harith**, a third-year Computer Science student at the **University of Technology**. 
+I bridge the gap between **aesthetic design** and **functional code**.
 
-I work as a freelancer building web applications and interfaces.  
-I also enjoy fixing computer hardware and solving Windows problems.
+* Building web applications & high-fidelity interfaces.
+* Passionate about hardware diagnostics and Windows optimization.
+* Chess player & CS2 enthusiast.
 
-My main focus is **web development and UI design**.
+---
 
+##  Tech Stack
 
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,mongodb,python,django,cpp"/>
-
+###  Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,django,python" />
 </p>
 
+### Database & Systems
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,cpp" /> 
+<code>OracleDB</code>
+</p>
 
-## Other Skills
+###  Design & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode" />
+</p>
 
-- OracleDB
-- Windows troubleshooting
-- Hardware repair
-- PC maintenance
-
-
-## Interests
-
-Chess  
-Counter-Strike 2  
+---
 
 
-## Connect
+##  Let's Connect
 
 <p align="center">
-
-<a href="https://instagram.com/5tp.9">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-<a href="https://t.me/fffffx">
-<img src="https://skillicons.dev/icons?i=telegram" height="40"/>
-</a>
-
-<a href="mailto:harith12342461@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
+<a href="https://instagram.com/5tp.9"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/fffffx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="mailto:harith12342461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 
