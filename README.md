@@ -45,15 +45,6 @@ I bridge the gap between **aesthetic design** and **functional code**.
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsharith&show_icons=true&theme=tokyonight&hide_border=true&title_color=99f2c8&icon_color=99f2c8&text_color=ffffff&bg_color=161b22"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsharith&theme=tokyonight&hide_border=true&fire=99f2c8&ring=99f2c8&side_nums=99f2c8&stroke=99f2c8&currStreakLabel=99f2c8"/>
-</p>
-
----
-
 ##  Gaming Library
 
 <p align="center">
@@ -87,3 +78,14 @@ I bridge the gap between **aesthetic design** and **functional code**.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=itsharith&color=99f2c8&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsharith&show_icons=true&theme=tokyonight&hide_border=true&title_color=99f2c8&icon_color=99f2c8&text_color=ffffff&bg_color=161b22"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsharith&theme=tokyonight&hide_border=true&fire=99f2c8&ring=99f2c8&side_nums=99f2c8&stroke=99f2c8&currStreakLabel=99f2c8"/>
+</p>
+
+---
