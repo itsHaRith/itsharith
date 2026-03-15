@@ -1,31 +1,68 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harith%20Rafed&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Harith%20Rafed&fontAlign=50&fontSize=50&color=0:1f4037,100:99f2c8"/>
 </p>
-
-<h2 align="center">Hi 👋 I'm Harith</h2>
 
 <p align="center">
-💻 Computer Science Student <br>
-🎨 UI/UX Designer <br>
-⚡ Full Stack Developer <br>
-📍 Baghdad, Iraq 🇮🇶
+<img src="https://harith.blog" width="160"/>
+</p>
+
+<p align="center">
+Computer Science Student • Freelancer Developer • UI/UX Designer
 </p>
 
 ---
 
-## 🚀 About Me
+### About Me
 
-- 🎓 Third year student at **University of Technology**
-- 💻 Freelancer Developer
-- 🌐 Portfolio: https://harith.blog
-- 🧠 I enjoy building web apps and solving problems
-- 🎮 Gamer (CS2 & Chess)
+I am **Harith**, a third-year Computer Science student from **Baghdad, Iraq** studying at the University of Technology.
+
+I work as a **freelancer developer** and enjoy building web interfaces and solving technical problems.
 
 ---
 
-## 🌐 Connect With Me
+### Skills
 
-<p align="left">
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+---
+
+### Other Knowledge
+
+- OracleDB
+- Windows troubleshooting
+- Hardware repair
+- PC maintenance
+
+---
+
+### Hobbies
+
+Chess  
+Counter-Strike 2  
+
+---
+
+### Portfolio
+
+https://harith.blog
+
+---
+
+### Contact
+
+<p align="center">
 
 <a href="https://instagram.com/5tp.9">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
@@ -43,60 +80,28 @@
 
 ---
 
-## 🧠 Skills
+### GitHub Stats
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🛠 Other Knowledge
-
-- OracleDB
-- Windows Troubleshooting
-- Hardware Repair
-- PC Building
-
----
-
-## 🎮 Hobbies
-
-♟ Chess  
-🎮 Counter-Strike 2  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
 
 <p align="center">
-🔥 Building cool stuff on GitHub
+<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue"/>
+</p>
+
+<p align="center">
+Building cool things on GitHub
 </p>
