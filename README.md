@@ -25,6 +25,49 @@ I bridge the gap between **aesthetic design** and **functional code**.
 
 ---
 
+##  Featured Projects
+
+<p align="center">
+  <a href="https://github.com/itsHaRith/portfolio">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=portfolio&theme=tokyonight&show_icons=true" />
+  </a>
+  <a href="https://github.com/itsHaRith/Tedx-Ui">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=Tedx-Ui&theme=tokyonight&show_icons=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsHaRith/guess-my-number-game">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=guess-my-number-game&theme=tokyonight&show_icons=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://harith.blog/"><b>🌐 Portfolio Live</b></a> • 
+  <a href="https://itsharith.github.io/Tedx-Ui/"><b> Tedx Demo</b></a> • 
+  <a href="https://itsharith.github.io/guess-my-number-game/"><b> Play Game</b></a>
+</p>
+
+---
+## 🎮 Gaming Library
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Counter--Strike%202-FFD700?style=for-the-badge&logo=counter-strike&logoColor=black" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chess.com&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Clash%20of%20Clans-FFBB00?style=for-the-badge&logo=clash-of-clans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Among%20Us-FF0000?style=for-the-badge&logo=among-us&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Dead-CC0000?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resident%20Evil-000000?style=for-the-badge&logo=resident-evil&logoColor=red" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kira272/Kira272/master/assets/line-white.gif" width="100%">
+</p>
+
+---
+
 ##  Tech Stack
 
 ### 🌐 Web Development
