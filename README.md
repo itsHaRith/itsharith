@@ -69,17 +69,17 @@ Counter-Strike 2
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=itsharith&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsharith&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itsharith&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=itsharith&color=0e75b6"/>
 </p>
