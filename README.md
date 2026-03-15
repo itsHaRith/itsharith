@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-<img src="https://harith.blog" width="140"/>
-</p>
-
-<p align="center">
 Computer Science Student • Freelancer Developer • UI/UX Designer
 <br>
 Baghdad, Iraq
