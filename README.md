@@ -3,64 +3,50 @@
 </p>
 
 <p align="center">
-<img src="https://harith.blog" width="160"/>
+<img src="https://harith.blog" width="140"/>
 </p>
 
 <p align="center">
 Computer Science Student • Freelancer Developer • UI/UX Designer
+<br>
+Baghdad, Iraq
 </p>
 
----
 
-### About Me
+## About
 
-I am **Harith**, a third-year Computer Science student from **Baghdad, Iraq** studying at the University of Technology.
+I am **Harith**, a third-year Computer Science student at the **University of Technology**.
 
-I work as a **freelancer developer** and enjoy building web interfaces and solving technical problems.
+I work as a freelancer building web applications and interfaces.  
+I also enjoy fixing computer hardware and solving Windows problems.
 
----
+My main focus is **web development and UI design**.
 
-### Skills
+
+## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=django"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,mongodb,python,django,cpp"/>
 
 </p>
 
----
 
-### Other Knowledge
+## Other Skills
 
 - OracleDB
 - Windows troubleshooting
 - Hardware repair
 - PC maintenance
 
----
 
-### Hobbies
+## Interests
 
 Chess  
 Counter-Strike 2  
 
----
 
-### Portfolio
-
-https://harith.blog
-
----
-
-### Contact
+## Connect
 
 <p align="center">
 
@@ -78,30 +64,22 @@ https://harith.blog
 
 </p>
 
----
 
-### GitHub Stats
+## GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
----
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue"/>
-</p>
-
-<p align="center">
-Building cool things on GitHub
+<img src="https://komarev.com/ghpvc/?username=USERNAME&color=0e75b6"/>
 </p>
