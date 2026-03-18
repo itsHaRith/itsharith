@@ -49,24 +49,6 @@ I bridge the gap between **aesthetic design** and **functional code**.
 </p>
 
 ---
-## 🎮 Gaming Library
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Counter--Strike%202-FFD700?style=for-the-badge&logo=counter-strike&logoColor=black" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chess.com&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Clash%20of%20Clans-FFBB00?style=for-the-badge&logo=clash-of-clans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Among%20Us-FF0000?style=for-the-badge&logo=among-us&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Dead-CC0000?style=for-the-badge&logo=rockstargames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resident%20Evil-000000?style=for-the-badge&logo=resident-evil&logoColor=red" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kira272/Kira272/master/assets/line-white.gif" width="100%">
-</p>
-
----
 
 ##  Tech Stack
 
