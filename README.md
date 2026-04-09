@@ -29,23 +29,27 @@ I bridge the gap between **aesthetic design** and **functional code**.
 
 <p align="center">
   <a href="https://github.com/itsHaRith/portfolio">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=portfolio&theme=tokyonight&show_icons=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=portfolio&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/itsHaRith/Tedx-Ui">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=Tedx-Ui&theme=tokyonight&show_icons=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=Tedx-Ui&theme=tokyonight&show_icons=true" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/itsHaRith/courses_website">
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=courses_website&theme=tokyonight&show_icons=true" />
+  </a>
   <a href="https://github.com/itsHaRith/guess-my-number-game">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=itsHaRith&repo=guess-my-number-game&theme=tokyonight&show_icons=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=guess-my-number-game&theme=tokyonight&show_icons=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://harith.blog/"><b>🌐 Portfolio Live</b></a> • 
-  <a href="https://itsharith.github.io/Tedx-Ui/"><b> Tedx Demo</b></a> • 
-  <a href="https://itsharith.github.io/guess-my-number-game/"><b> Play Game</b></a>
+  <a href="https://harith.blog"><b>🌐 Portfolio</b></a> •
+  <a href="https://itsharith.github.io/Tedx-Ui/"><b>🎬 Tedx Demo</b></a> •
+  <a href="https://itsharith.github.io/courses_website/"><b>📚 Courses Site</b></a> •
+  <a href="https://itsharith.github.io/guess-my-number-game/"><b>🎮 Play Game</b></a>
 </p>
 
 ---
