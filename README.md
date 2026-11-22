@@ -52,22 +52,15 @@ I am **Harith**, a Computer Science student at the **University of Technology** 
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Portfolio | TEDx UI |
+| --- | --- |
+| Personal portfolio and frontend projects. | TEDx-inspired interface built for the web. |
+| [Live Demo](https://harith.blog) · [Source](https://github.com/itsHaRith/portfolio) | [Live Demo](https://itsharith.github.io/Tedx-Ui/) · [Source](https://github.com/itsHaRith/Tedx-Ui) |
 
-[![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=portfolio&theme=tokyonight&show_icons=true)](https://github.com/itsHaRith/portfolio)
-[![TEDx UI](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=Tedx-Ui&theme=tokyonight&show_icons=true)](https://github.com/itsHaRith/Tedx-Ui)
-
-[![Courses Website](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=courses_website&theme=tokyonight&show_icons=true)](https://github.com/itsHaRith/courses_website)
-[![Guess My Number](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itsHaRith&repo=guess-my-number-game&theme=tokyonight&show_icons=true)](https://github.com/itsHaRith/guess-my-number-game)
-
-</div>
-
-| Project | Live Demo | Source |
-| --- | --- | --- |
-| Portfolio | [Visit](https://harith.blog) | [GitHub](https://github.com/itsHaRith/portfolio) |
-| TEDx UI | [Visit](https://itsharith.github.io/Tedx-Ui/) | [GitHub](https://github.com/itsHaRith/Tedx-Ui) |
-| Courses Website | [Visit](https://itsharith.github.io/courses_website/) | [GitHub](https://github.com/itsHaRith/courses_website) |
-| Guess My Number | [Play](https://itsharith.github.io/guess-my-number-game/) | [GitHub](https://github.com/itsHaRith/guess-my-number-game) |
+| Courses Website | Guess My Number |
+| --- | --- |
+| A responsive courses website. | A browser number guessing game. |
+| [Live Demo](https://itsharith.github.io/courses_website/) · [Source](https://github.com/itsHaRith/courses_website) | [Play](https://itsharith.github.io/guess-my-number-game/) · [Source](https://github.com/itsHaRith/guess-my-number-game) |
 
 ---
 
